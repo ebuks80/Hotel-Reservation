@@ -1,1 +1,1 @@
-# Hotel-Reservation
+For this project i will be working with Hotel Reservation Dataset from Kaggle. A significant number of hotel reservations are called off due to cancellations or no-show. There are several reasons for concellation. it is a classification based project where i will be predicting the individuals that would honor the reservation or cancel it. I will follow the approach of Neural networks to find the results and compare it with other algorithms
